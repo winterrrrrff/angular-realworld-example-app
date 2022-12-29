@@ -5,5 +5,5 @@
 
 export const environment = {
   production: false,
-  api_url: 'https://api.realworld.io/api'
+  api_url: 'https://real-world-server.vercel.app/api'
 };
